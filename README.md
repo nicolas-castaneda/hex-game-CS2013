@@ -1,6 +1,4 @@
-# CS2013-Project
-
-Hex-Game
+# Hex-Game
 
   <img src="https://github.com/CS1103/proyecto-final-proyecto_grupo9/blob/main/hex2.png">
 
