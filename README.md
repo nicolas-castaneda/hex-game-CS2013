@@ -1,16 +1,16 @@
 # Hex-Game
 
-  <img src="https://github.com/CS1103/proyecto-final-proyecto_grupo9/blob/main/hex2.png">
+  <img src="https://github.com/nicolas-castaneda/hex-game-CS2013/blob/main/hex2.png">
 
 
 Descripcion del Proyecto
 - Hex es un juego de dos jugadores desarrollado sobre una tabla conformada por hexágonos cuya condición de victoria es conectar los lados opuestos de la tabla a través de marcas adyacentes respectivas a cada jugador.
 
-  <img src="https://github.com/CS1103/proyecto-final-proyecto_grupo9/blob/main/hex1.jpeg">
+  <img src="https://github.com/nicolas-castaneda/hex-game-CS2013/blob/main/hex1.jpeg">
 
 - El programa buscará recrear el juego Hex e implementará a una IA que utilice el algoritmo alpha-beta pruning para decidir los movimientos que realizará en cada turno.
 
-    <img src="https://github.com/CS1103/proyecto-final-proyecto_grupo9/blob/main/alfa_beta.png">
+    <img src="https://github.com/nicolas-castaneda/hex-game-CS2013/blob/main/alfa_beta.png">
 
 
 # Resumen del programa
@@ -26,7 +26,7 @@ Descripcion del Proyecto
 
 - https://miro.com/app/board/uXjVOnzxSAM=/
 
-<img src="https://github.com/CS1103/proyecto-final-proyecto_grupo9/blob/main/uml_diagram.png">
+<img src="https://github.com/nicolas-castaneda/hex-game-CS2013/blob/main/uml_diagram.png">
 
 # Link de videos explicativos
 
